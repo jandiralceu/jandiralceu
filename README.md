@@ -1,9 +1,9 @@
 # 🚀 Jandir A. Cutadiala
 ### Software Engineer | Distributed Systems | Agentic AI & SaaS
 
-Software Engineer with 8+ years of experience specializing in high-performance web and mobile applications. My expertise lies in bridging the gap between complex backend architectures and sleek, premium user experiences. 
+I engineer systems that scale. From **high-stakes financial platforms** to **autonomous AI agents**, I build infrastructure where performance and user experience are non-negotiable.
 
-I have a proven track record of designing scalable systems, from my time at **high-stakes financial institutions** to my current focus on autonomous agentic systems and high-concurrency microservices.
+With 8+ years across the full stack, I've developed a rare ability to bridge complex distributed architectures with sleek, premium interfaces — ensuring that what's powerful under the hood also feels world-class on the surface.
 
 ---
 
@@ -25,8 +25,8 @@ I am currently leading the engineering of a **High-Performance Fitness & Wellnes
 
 ---
 
-### 🚀 Next Challenge
-I am seeking a role where I can leverage my 8+ year journey—bridging a **foundational mastery of Frontend & UI/UX** with my current expertise in **high-concurrency Go microservices and Agentic AI**. My goal is to build intelligent, scalable infrastructure for global tech leaders, ensuring the perfect balance between sophisticated distributed systems and **premium, world-class user experiences**.
+### 🎯 Mission
+I build intelligent, scalable infrastructure that bridges **sophisticated distributed systems** with **premium, world-class user experiences**. My drive is to push the boundaries of what's possible with high-concurrency Go microservices and Agentic AI — always ensuring that technical excellence translates into products people love to use.
 
 ---
 
