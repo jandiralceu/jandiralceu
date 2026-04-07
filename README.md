@@ -25,13 +25,6 @@ I am currently leading the engineering of a **High-Performance Fitness & Wellnes
 
 ---
 
-### 🔭 Expertise & Focus Areas
-*   **Distributed Systems:** Designing robust, event-driven architectures.
-*   **Modular Design:** Applying Clean Architecture principles for long-term maintainability.
-*   **AI-Driven Products:** Integrated intelligent agents into real-world business logic.
-
----
-
 ### 🎯 Professional Goal
 I am looking to leverage my expertise in **high-concurrency Go microservices** and **autonomous AI agents** to build the next generation of intelligent, scalable infrastructure for a global tech leader. I thrive in teams that prioritize architectural excellence, visual quality, and the bridge between smart systems and premium user experience.
 
