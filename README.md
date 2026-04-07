@@ -26,7 +26,7 @@ I am currently leading the engineering of a **High-Performance Fitness & Wellnes
 ---
 
 ### 🚀 Next Challenge
-I am looking to leverage my expertise in **high-concurrency Go microservices** and **autonomous AI agents** to build the next generation of intelligent, scalable infrastructure for a global tech leader. I thrive in teams that prioritize architectural excellence, visual quality, and the bridge between smart systems and premium user experience.
+I am seeking a role where I can leverage my 8+ year journey—bridging a **foundational mastery of Frontend & UI/UX** with my current expertise in **high-concurrency Go microservices and Agentic AI**. My goal is to build intelligent, scalable infrastructure for global tech leaders, ensuring the perfect balance between sophisticated distributed systems and **premium, world-class user experiences**.
 
 ---
 
