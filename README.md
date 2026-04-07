@@ -11,7 +11,7 @@ With 8+ years across the full stack, I've developed a rare ability to bridge com
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Backend & Infra** | Go (Golang), Python, gRPC, PostgreSQL, Redis, Kubernetes, GCP |
+| **Backend & Infra** | Go (Golang), Node.js, Python, gRPC, PostgreSQL, Redis, Kubernetes, GCP |
 | **Frontend & Mobile** | TypeScript (React, Next.js), Flutter, Vanilla CSS (Premium Aesthetics) |
 | **Edge Tech** | Agentic AI (LangChain), Distributed Systems, Clean Architecture |
 
