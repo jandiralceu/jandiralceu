@@ -1,4 +1,4 @@
-# 🚀 Jandir A. Cutadiala
+# 🚀 Jandir Alceu
 ### Software Engineer | Distributed Systems | Agentic AI & SaaS
 
 I engineer systems that scale. From **high-stakes financial platforms** to **autonomous AI agents**, I build infrastructure where performance and user experience are non-negotiable.
