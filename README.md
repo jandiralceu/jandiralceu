@@ -1,5 +1,5 @@
 # 🚀 Jandir A. Cutadiala
-### Software Engineer | Distributed Systems | Agentic AI & SaaS
+### Senior Software Engineer | Go (Golang) | Python | Agentic AI | Distributed Systems
 
 I engineer systems that scale. From **high-stakes financial platforms** to **autonomous AI agents**, I build infrastructure where performance and user experience are non-negotiable.
 
