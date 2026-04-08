@@ -18,10 +18,10 @@ With 12+ years across the full stack, I've developed a rare ability to bridge co
 ---
 
 ### 🏗 Currently Architecting
-I am currently leading the engineering of a **High-Performance Fitness & Wellness SaaS**. 
-*   **Focus:** Distributed microservices using **Go** and **gRPC** for low-latency communication.
-*   **Innovation:** Implementing **Modular Architecture** and LLM-powered **Autonomous Agents** to automate personalized wellness workflows.
-*   **Scale:** Built for horizontal scalability and high-availability from day one.
+Building a **High-Performance Fitness & Wellness SaaS** in **Go** — hands-on and in active development.
+*   **Backend:** Distributed microservices in **Go** with **gRPC** for low-latency, high-throughput communication.
+*   **AI Layer:** LLM-powered **Autonomous Agents** (LangChain/Python) automating personalized wellness workflows.
+*   **Architecture:** Modular, Clean Architecture — built for horizontal scalability and high-availability from day one.
 
 ---
 
